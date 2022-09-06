@@ -1,0 +1,27 @@
+body{
+background-image: url(./img/HD\ wallpaper_\ background\,\ black\,\ color\,\ texture\,\ Board\,\ school\,\ blackboard.jfif);
+}
+.container{
+margin-top: 12rem;
+width:40%;
+}
+
+h1{
+  font-family: Copperplate, Papyrus, fantasy;
+  color: white;
+}
+
+.form-control{
+  background: transparent;
+  font-family: Copperplate, Papyrus, fantasy;
+}
+
+.form-control:focus{
+  background: transparent;
+
+}
+
+.btn{
+  font-family: Copperplate, Papyrus, fantasy;
+}
+
